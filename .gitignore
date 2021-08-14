@@ -1,0 +1,5 @@
+jenkins_home/
+db_data/
+.DS_Store
+new_user_credentials.csv
+remote-key*
