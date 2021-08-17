@@ -6,3 +6,4 @@
 4. set aws creds on remote host via env vars - export AWS_ACCESS_KEY_ID - export AWS_SECRET_ACCESS_KEY
 5. aws s3 cp /tmp/db.sql s3://bucket-name/db.sql
 6. docker cp copy.sh remote-host:/tmp/copy.sh
+7. in remote-host "chmod -x tmp/script.sh"
